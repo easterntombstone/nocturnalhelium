@@ -1,2 +1,2 @@
 (ns digitalbird.easterntombstone.nocturnalhelium.core)
-(defn is [predicate] (if is true false))
+(defn mock-is [failure] (fn [predicate] (if (.equals failure predicate) false true)))

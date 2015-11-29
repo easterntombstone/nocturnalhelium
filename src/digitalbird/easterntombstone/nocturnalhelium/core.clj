@@ -1,2 +1,2 @@
 (ns digitalbird.easterntombstone.nocturnalhelium.core)
-(defn foo [] (println "hi"))
+(defn is [predicate] (if is true false))

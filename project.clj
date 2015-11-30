@@ -1,4 +1,4 @@
-(defproject digitalbird.easterntombstone.nocturnalhelium "0.2.0-SNAPSHOT"
+(defproject digitalbird.easterntombstone/nocturnalhelium "0.4.0-SNAPSHOT"
   :description "testing forsakenknife"
   :repositories [["local" "file://stormyiron"]]
   :url "https://github.com/randomsmoke/forsakenknife"
